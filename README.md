@@ -2,7 +2,7 @@
 
 > O brasileiro precisa ser estudado
 
-<a href="https://app.codesponsor.io/link/osmbVLutaA7HXKYJpSN5uQYQ/haskellcamargo/gemidao-do-zap" rel="nofollow"><img src="https://app.codesponsor.io/embed/osmbVLutaA7HXKYJpSN5uQYQ/haskellcamargo/gemidao-do-zap.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4c-P54ZhPVwoPDskMTT2oivTVZ6Eo7LBxA&usqp=CAU" rel="nofollow"><img src="https://app.codesponsor.io/embed/osmbVLutaA7HXKYJpSN5uQYQ/haskellcamargo/gemidao-do-zap.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
 
 ## O que é isso?
 
