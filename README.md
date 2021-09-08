@@ -2,8 +2,6 @@
 
 > O brasileiro precisa ser estudado
 
-<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4c-P54ZhPVwoPDskMTT2oivTVZ6Eo7LBxA&usqp=CAU" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4c-P54ZhPVwoPDskMTT2oivTVZ6Eo7LBxA&usqp=CAU" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
-
 ## O que é isso?
 
 O _Gemidão do Zap_ é uma aplicação escrita sobre o NodeJS que permite que você
@@ -80,9 +78,6 @@ $ docker run --rm --name gemidao-do-zap -e DE={{telefone}} -e PARA={{telefone}} 
 ## Por quê!?
 
 Porque somos brasileiros!
-
-![6096234_700b](https://user-images.githubusercontent.com/1585655/29083653-d40bb660-7c3f-11e7-896c-efd243f32918.jpg)
-## Disclaimer
 
 Os autores deste projeto não possuem qualquer ligação com a TotalVoice.
 TotalVoice é uma marca registrada.
